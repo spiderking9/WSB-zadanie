@@ -1,0 +1,15 @@
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\bin\Debug\ZadanieDomoweLukaszPluta.exe.config
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\bin\Debug\ZadanieDomoweLukaszPluta.exe
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\bin\Debug\ZadanieDomoweLukaszPluta.pdb
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta.csprojAssemblyReference.cache
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\View\MainWindow.g.cs
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\App.g.cs
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta_MarkupCompile.cache
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta_MarkupCompile.lref
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\Content\Style\style1.baml
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\View\MainWindow.baml
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta.g.resources
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta.Properties.Resources.resources
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta.csproj.GenerateResource.cache
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta.exe
+C:\Users\Luk\source\studia\ZadanieDomoweLukaszPluta\ZadanieDomoweLukaszPluta\obj\Debug\ZadanieDomoweLukaszPluta.pdb
